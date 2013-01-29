@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDWeb", "JDWeb\JDWeb.csproj", "{716B408E-F970-404A-89CF-77007BEFBF12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{58E65F16-947E-4770-946A-FE81DFCD6996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components", "Components\Components.csproj", "{DEF8C7B8-62A6-416B-AD27-94E5530EE6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B740C290-85A7-48FA-8067-DA74D3498E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{075E8E1A-6B44-49AC-91D1-D39456EFD25D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +21,22 @@ Global
 		{716B408E-F970-404A-89CF-77007BEFBF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{716B408E-F970-404A-89CF-77007BEFBF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{716B408E-F970-404A-89CF-77007BEFBF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E65F16-947E-4770-946A-FE81DFCD6996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E65F16-947E-4770-946A-FE81DFCD6996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E65F16-947E-4770-946A-FE81DFCD6996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E65F16-947E-4770-946A-FE81DFCD6996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF8C7B8-62A6-416B-AD27-94E5530EE6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF8C7B8-62A6-416B-AD27-94E5530EE6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF8C7B8-62A6-416B-AD27-94E5530EE6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF8C7B8-62A6-416B-AD27-94E5530EE6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B740C290-85A7-48FA-8067-DA74D3498E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B740C290-85A7-48FA-8067-DA74D3498E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B740C290-85A7-48FA-8067-DA74D3498E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B740C290-85A7-48FA-8067-DA74D3498E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075E8E1A-6B44-49AC-91D1-D39456EFD25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075E8E1A-6B44-49AC-91D1-D39456EFD25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075E8E1A-6B44-49AC-91D1-D39456EFD25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075E8E1A-6B44-49AC-91D1-D39456EFD25D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
